@@ -1,0 +1,5 @@
+#! /bin/bash
+
+echo $UID
+echo $HOME
+echo $USER
